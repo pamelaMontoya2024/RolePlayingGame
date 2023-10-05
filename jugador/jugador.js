@@ -1,4 +1,4 @@
-class Jugador extends Personaje {
+class jugador extends personaje {
     constructor(name, health, damage, level) {
     super(name, health, damage);
     this.level = level;

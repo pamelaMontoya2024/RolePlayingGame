@@ -1,4 +1,4 @@
-class Enemigo extends Personaje {
+class enemigo extends personaje {
     constructor(name, health, damage, tipo) {
     super(name, health, damage);
     this.tipo = tipo;
