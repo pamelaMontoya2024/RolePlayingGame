@@ -60,5 +60,5 @@ cd RolePlayingGame
 # Instala las dependencias
 npm install
 
-#Avanves 
-##Nota 10
+# Avanves 
+## Nota 10
